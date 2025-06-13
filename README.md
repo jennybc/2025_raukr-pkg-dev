@@ -33,9 +33,7 @@ Slides
 
   * The Whole Game, in slide form, by Andy Teucher, prepared for posit::conf(2023):
 
-    - <https://drive.google.com/file/d/1Zi0nx5eHSv9giTaHMxtME0YEIdr0UVO4/view?usp=sharing>
-
-  * Those slides as [PDF](pkg-dev-2023.pdf) here in this repo
+    - Those slides as [PDF](pkg-dev-2023.pdf) here in this repo
   
 Where to learn more:
 
